@@ -320,6 +320,10 @@ ul.row {
     color: var(--text-color);
 }
 
+.footer ul {
+    text-align: right;
+}
+
 h1,
 h2,
 h3,
